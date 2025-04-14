@@ -44,7 +44,7 @@ portfolio/
 ## 🔧 Setup
 
 1. Clone repository: 
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/santhosh-thouda/portfolio.git
 cd portfolio
 
 2. Open in browser: 
