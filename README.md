@@ -23,7 +23,7 @@ A cutting-edge portfolio website showcasing skills, projects, and experience as 
 
 ## 🖥 Live Demo
 
-[![Live Demo](https://santhosh-thouda.github.io/portfolio/)
+[![Live Demo](https://img.shields.io/badge/View-Live_Demo-green?style=for-the-badge)](https://santhosh-thouda.github.io/portfolio/)
 
 ## 📂 Directory Structure
 
