@@ -43,11 +43,11 @@ portfolio/
 
 ## 🔧 Setup
 
-1. Clone repository:
+1. Clone repository: 
 git clone https://github.com/your-username/portfolio.git
 cd portfolio
 
-2. Open in browser:
+2. Open in browser: 
 open index.html  # On Mac
 start index.html # On Windows
 🎨 Customization Guide
