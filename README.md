@@ -1,68 +1,257 @@
-# Santhosh Thouda - Portfolio
+Santhosh Thouda Portfolio
 
-## 🌟 Modern Full Stack Developer Portfolio
+A professional portfolio website for Santhosh Thouda, a Computer Science Engineering student and Full Stack Developer specializing in AI-enhanced web applications.
 
-A cutting-edge portfolio website showcasing skills, projects, and experience as a Full Stack Developer and Computer Science student.
+Features
 
-## 🚀 Features
 
-- **AI-Enhanced Animations**: GSAP animations with scroll-triggered effects  
-- **Interactive Particle Background**: Dynamic particle.js visualization  
-- **Responsive Design**: Fully mobile-friendly layout  
-- **Modern UI**: Glass morphism design with gradient accents  
-- **Project Showcase**: Highlighted projects with technology tags  
-- **Contact Form**: Functional contact section  
 
-## 🛠 Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
-![Particles.js](https://img.shields.io/badge/Particles.js-000000?style=flat)
 
-## 🖥 Live Demo
+Circuit-themed hero section with particles.js and Lottie animations.
 
-[![Live Demo](https://img.shields.io/badge/View-Live_Demo-green?style=for-the-badge)](https://santhosh-thouda.github.io/portfolio/)
 
-## 📂 Directory Structure
 
-portfolio/
-├── index.html
-├── css/
-│ └── style.css
-├── js/
-│ ├── main.js
-│ ├── particles-config.js
-│ └── animations.js
-├── images/
-│ ├── profile.jpg
-│ ├── projects/
-│ └── hobbies/
-└── README.md
+Individual skill cards with neon-glow highlights and hover effects.
 
-## 🔧 Setup
 
-1. Clone repository: 
-git clone https://github.com/santhosh-thouda/portfolio.git
-cd portfolio
 
-2. Open in browser: 
-open index.html  # On Mac
-start index.html # On Windows
-🎨 Customization Guide
-File	Purpose
-index.html	Update personal info, projects
-css/style.css	Modify colors, fonts, styles
-js/main.js	Change interactive elements
-images/	Replace with your own assets
-📜 License
-MIT License - See LICENSE file
+Responsive grid layout for projects (2 cards per row).
 
-📬 Connect With Me
-Email
-LinkedIn
-GitHub
 
-✨ Crafted with passion by Santhosh Thouda
-© 2025 All Rights Reserved
+
+New sections: Experience, Education, Certificates, Achievements.
+
+
+
+Subtle neon-glow text shadow for readability.
+
+
+
+Taller navbar and compact footer.
+
+
+
+Fonts imported via Google Fonts (Poppins, Montserrat).
+
+
+
+Five animation libraries: GSAP, Anime.js, Lottie, Hover.css, ScrollReveal.
+
+
+
+Four jQuery plugins: jQuery, jQuery UI, Typed.js, jQuery Validate.
+
+
+
+Five CSS and JS files for modularity.
+
+
+
+Placeholder images in assets/images/.
+
+File Structure
+
+
+
+
+
+index.html: Main portfolio structure.
+
+
+
+css/
+
+
+
+
+
+base.css: Reset and global styles with reduced text shadow.
+
+
+
+components.css: UI components, updated navbar/footer.
+
+
+
+animations.css: Animation keyframes.
+
+
+
+utilities.css: Tailwind overrides.
+
+
+
+responsive.css: Responsive grid for projects.
+
+
+
+js/
+
+
+
+
+
+core.js: Circuit-themed particles.js.
+
+
+
+animations.js: Animation logic for new sections.
+
+
+
+interactions.js: Navigation for new sections.
+
+
+
+plugins.js: Plugin initialization (no Slick Slider).
+
+
+
+utilities.js: Helper functions.
+
+
+
+jquery/
+
+
+
+
+
+jquery.min.js: jQuery core.
+
+
+
+jquery-ui.min.js: jQuery UI.
+
+
+
+typed.min.js: Typing animation.
+
+
+
+jquery.validate.min.js: Form validation.
+
+
+
+animations/
+
+
+
+
+
+hero.json: Hero Lottie animation (coding terminal).
+
+
+
+skills.json: Skills Lottie animation (gears).
+
+
+
+projects.json: Projects Lottie animation (rocket).
+
+
+
+contact.json: Contact Lottie animation (envelope).
+
+
+
+footer.json: Footer Lottie animation (network).
+
+
+
+assets/images/
+
+
+
+
+
+profile.jpg: Profile image.
+
+
+
+project1.jpg: Banking Management System.
+
+
+
+project2.jpg: Binary Search Visualization.
+
+
+
+project3.jpg: Currency Converter.
+
+
+
+project4.jpg: Edutainment Platform.
+
+
+
+tech-bg.png: Hero tech background.
+
+Setup
+
+
+
+
+
+Clone the repository or download the files.
+
+
+
+Place Santhosh_Thouda_Resume.pdf in the root directory.
+
+
+
+Ensure animations/ and assets/images/ contain the provided files.
+
+
+
+Open index.html in a browser.
+
+
+
+Ensure internet for CDN dependencies.
+
+Dependencies
+
+
+
+
+
+Tailwind CSS, GSAP, Anime.js, Particles.js, Lottie, Hover.css, Font Awesome, jQuery, jQuery UI, Typed.js, jQuery Validate, ScrollReveal, Google Fonts.
+
+Customization
+
+
+
+
+
+Replace images in assets/images/ with your own.
+
+
+
+Update Lottie animations in animations/ with custom JSON files.
+
+
+
+Modify colors in css/utilities.css.
+
+
+
+Adjust animations in js/animations.js and css/animations.css.
+
+Deployment
+
+
+
+
+
+Host on GitHub Pages, Netlify, or Vercel.
+
+
+
+Ensure CDN links and assets are accessible.
+
+License
+
+© 2025 Santhosh Thouda. All Rights Reserved.
